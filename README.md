@@ -1,24 +1,29 @@
 ## 👋 Hi, I'm Mohamad Farahani
 
-Data & Machine Learning Engineer with 4+ years of experience in building and deploying machine learning models and data pipelines.
+I'm a data enthusiast with 4+ years of experience in Data Science, AI and Machine Learning,  building data-driven solutions and predictive models to solve real-world problems in healthcare and beyond.
 
-🎯 Currently seeking: Data Scientist / Machine Learning Engineer roles  
-📍 Based in Canada  
+---
+
+### 🧠 About Me
+I’m passionate about turning data into insights and building machine learning systems that make a measurable impact. My experience includes working with clinical datasets, deploying ML models, and designing reproducible workflows.
 
 ---
 
 ### 🛠 Tech Stack
-- Python, SQL, PySpark  
-- Scikit-learn, TensorFlow, PyTorch  
-- MLflow, Databricks  
-- Azure, GitHub Actions  
+- **Languages:** Python, SQL  
+- **ML & DL:** Scikit-learn, TensorFlow, PyTorch  
+- **Data Engineering:** Pandas, NumPy, ETL pipelines  
+- **Tools & Platforms:** MLflow, Git, Databricks, Azure  
+- **Deployment:** Streamlit / REST APIs
 
 ---
 
-### 📌 Featured Projects
-- 🧠 Medical Video Analysis for JVP Detection  
-- 📊 End-to-End ML Pipeline on Databricks  
-- 🤖 LLM-based Question Answering App  
+### 🚀 Featured Projects
+Here are a few projects that best showcase my skills:
+
+- **🧠 Medical Video Analysis for JVP Detection** – Deep learning pipeline for vital sign analysis  
+- **📊 End-to-End ML Pipeline on Databricks** – Automated workflow with model tracking  
+- **🤖 LLM-based Q&A Web App** – Interactive application using modern LLM APIs
 
 ---
 
