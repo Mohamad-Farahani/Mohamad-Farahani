@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Mohamad Farahani
+## 👋 Hi, I'm Mohamad 
 
 I'm a data enthusiast with 4+ years of experience in Data Science, AI and Machine Learning,  building data-driven solutions and predictive models to solve real-world problems in healthcare and beyond.
 
