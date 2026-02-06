@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi, I'm Mohamad Farahani
 
-<!--
-**Mohamad-Farahani/Mohamad-Farahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & Machine Learning Engineer with 4+ years of experience in building and deploying machine learning models and data pipelines.
 
-Here are some ideas to get you started:
+🎯 Currently seeking: Data Scientist / Machine Learning Engineer roles  
+📍 Based in Canada  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- Python, SQL, PySpark  
+- Scikit-learn, TensorFlow, PyTorch  
+- MLflow, Databricks  
+- Azure, GitHub Actions  
+
+---
+
+### 📌 Featured Projects
+- 🧠 Medical Video Analysis for JVP Detection  
+- 📊 End-to-End ML Pipeline on Databricks  
+- 🤖 LLM-based Question Answering App  
+
+---
+
+### 🔗 Connect with me
+- LinkedIn: www.linkedin.com/in/mohamad-farahani-686ba2211
+- Portfolio: https://mohamad-farahani.github.io/Portfolio/
