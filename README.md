@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Mohamad
 
-I'm a Data and Machine Learning professional with 4+ years of experience building and deploying machine learning and deep learning solutions for real-world applications, with a strong focus on healthcare, energy systems, and cloud-based ML pipelines.
+I'm a Data and Machine Learning professional with experience in building and deploying machine learning and deep learning solutions for real-world applications, with a strong focus on healthcare, energy systems, and cloud-based ML pipelines.
 
 ---
 
